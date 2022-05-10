@@ -1,0 +1,16 @@
+{
+    "al.enableCodeAnalysis": false,
+    "al.backgroundCodeAnalysis": false,
+    "al.assemblyProbingPaths": [
+        "C:\\windows\\Microsoft.NET\\assembly",
+        "C:\\Program Files\\Microsoft Dynamics 365 Business Central\\190\\Service"
+    ],
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.OnSaveAlFileAction": "Rename",
+    "CRS.ObjectNamePrefix": "JJFF2",
+    "CRS.RenameWithGit": true,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+}

@@ -1,0 +1,37 @@
+{
+  "id": "8defada3-4284-438d-aea9-c2db770baabd",
+  "name": "Session2",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "1610f7b7-77b1-49f4-8341-11511682d23a",
+      "name": "XPandSession1",
+      "publisher": "Default publisher",
+      "version": "1.0.0.0"
+    
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
